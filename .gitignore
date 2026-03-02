@@ -1,0 +1,16 @@
+# Compiled Java class files
+*.class
+
+# NetBeans project-specific files
+/build/
+/dist/
+/nbproject/private/
+/nbdist/
+
+# NetBeans user-specific files
+nb-configuration.xml
+*.nb-user
+*.user
+
+# Log files
+*.log
